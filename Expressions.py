@@ -1,3 +1,5 @@
+#Assignment 
+
 # To get input form user 
 num1 =int(input("enter the price of the english books:"))
 num2 = int(input("enter the price of the math books:"))

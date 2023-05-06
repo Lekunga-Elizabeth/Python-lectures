@@ -1,3 +1,5 @@
+# Assignment 3 calculating the average of a particular value
+
 # basic operation in maths geting the average
 
 #Electricity Bill for the 1st month = 23
