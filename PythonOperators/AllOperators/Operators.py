@@ -47,3 +47,5 @@ print(clovis<miriam or eliz>foncho)
 
 # the not operators. it actually changes your statetate. if your statement is true it will give you a "false" answer and if the statement is false the answer will be true 
 
+#4. the Modeluse operator is represented by %
+

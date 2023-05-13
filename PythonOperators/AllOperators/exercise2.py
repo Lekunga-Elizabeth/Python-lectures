@@ -16,5 +16,3 @@ print (num1 <= num2)  # perform the less than or equall to operation
 print (num1 == num2)  # perform the equall to operation
 print (num1 != num2)  # perform the not equal to operation
 
-
-
