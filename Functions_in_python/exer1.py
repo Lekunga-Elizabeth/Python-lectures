@@ -37,3 +37,14 @@ def checkdivisibility(a,b):
         print("it is not divisible",b)
 checkdivisibility(25,6)
         
+# call funtion
+
+def math_operation(num1,num2):
+    add = num1 + num2
+    sub = num1 + num2
+    #returning a single value(add)
+    return add, sub
+
+
+
+
