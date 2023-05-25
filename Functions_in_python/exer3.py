@@ -3,9 +3,8 @@
 # The factorial of a number n is the product of all positive integers from 1 to n.
 
 def calculate_factorial(n):
-    factorial =1
     if n ==0:
         return 1
     else:
         return n * calculate_factorial(n-1)
-print(calculate_factorial(3))
+print(calculate_factorial(0))
